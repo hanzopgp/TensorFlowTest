@@ -4,11 +4,10 @@ import numpy as np
 
 
 def get_dataset():
-    """
-        Method used to generate the dataset
-    """
+
     # Numbers of row per class
     row_per_class = 100
+
     # Generate rows
     sick = np.random.randn(row_per_class, 2) + np.array([-2, -2])
     sick_2 = np.random.randn(row_per_class, 2) + np.array([2, 2])
