@@ -14,5 +14,13 @@
 - Matplotlib
 - Cuda
 
+## Jupyterlab setup
+
+- Install Anaconda
+- Create new environment
+- Open new environment terminal
+- >pip install tensorflow
+- >jupyter notebook
+
 ## TensorFlow Memento
 
