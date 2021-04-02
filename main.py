@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-# import tensorflow as tf
+import tensorflow as tf
 import numpy as np
 
 
@@ -28,3 +28,12 @@ if __name__ == '__main__':
 
     plt.scatter(features[:, 0], features[:, 1], s=40, c=targets, cmap=plt.cm.Spectral)
     plt.show()
+
+    tf_features = tf.placeholder(tf.float32, shape=[None, 2]);  # None in case we want to change values
+    tf_targets = tf.placeholder(tf.float32, shape=[None, 1]);
+
+    w = tf.Variable(tf.random_normal([2, 1]));
+
+    session = tf.Session();
+
+    print(w);
