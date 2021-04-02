@@ -17,10 +17,9 @@
 ## Jupyterlab setup
 
 - Install Anaconda
-- Create new environment
-- Open new environment terminal
+- Open environment terminal
 - \>pip install tensorflow
-- \>jupyter notebook
+- Open jupyter notebook in that environment
 
 ## TensorFlow Memento
 
