@@ -16,6 +16,7 @@
 - Matplotlib
 - Pandas
 - Sklearn
+- Unidecode
 
 ## Jupyterlab setup
 
