@@ -2,7 +2,9 @@
 
 ## Presentation
 
->Learning about tensorflow, numpy and matplotlib libraries to quickly build and test neural networks.
+<p align="center"><img src="nn.png"></p>
+
+>Learning about tensorflow, jupyter notebook, numpy, matplotlib, sklearn and other libraries to quickly build and test neural networks.
 
 ## Dependencies
 
@@ -12,14 +14,22 @@
 - TensorFlow
 - Numpy
 - Matplotlib
-- Cuda
+- Pandas
+- Sklearn
 
 ## Jupyterlab setup
 
 - Install Anaconda
+- Create new environnment
 - Open environment terminal
 - \>pip install tensorflow
+- \>pip install pandas
+- \>pip install sklearn
+- \>pip install jupyter notebook
+- ...
 - Open jupyter notebook in that environment
 
-## TensorFlow Memento
+## Datasets
+
+- Datasets are not in the github repository, you need to download it (Links in notebooks).
 
