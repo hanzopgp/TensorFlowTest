@@ -4,7 +4,7 @@
 
 <p align="center"><img src="nn.png"></p>
 
->Learning about tensorflow, jupyter notebook, numpy, matplotlib, sklearn and other libraries to quickly build and test neural networks.
+>Learning about tensorflow, jupyter notebook, numpy, matplotlib, sklearn and other libraries to quickly build and test neural networks. Following Thibaut Neveu's tutorial.
 
 ## Dependencies
 
@@ -33,4 +33,10 @@
 ## Datasets
 
 - Datasets are not in the github repository, you need to download it (Links in notebooks).
+
+## Links
+
+- https://www.youtube.com/watch?v=hP7Ac8S9Tgs&list=PLpEPgC7cUJ4byTM5kGA0Te1jUeNwbSgfd&ab_channel=ThibaultNeveu
+- https://en.wikipedia.org/wiki/Long_short-term_memory
+- https://en.wikipedia.org/wiki/Recurrent_neural_network
 
