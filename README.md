@@ -36,6 +36,7 @@
 
 ## Links
 
+- https://www.tensorflow.org/?hl=fr
 - https://www.youtube.com/watch?v=hP7Ac8S9Tgs&list=PLpEPgC7cUJ4byTM5kGA0Te1jUeNwbSgfd&ab_channel=ThibaultNeveu
 - https://en.wikipedia.org/wiki/Long_short-term_memory
 - https://en.wikipedia.org/wiki/Recurrent_neural_network
